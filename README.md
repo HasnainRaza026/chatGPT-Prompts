@@ -1,2 +1,2 @@
 # chatGPT-Prompts
-## This repository contains useful prompts for ChatGPT
+## This repository contains useful prompts for ChatGPT 
